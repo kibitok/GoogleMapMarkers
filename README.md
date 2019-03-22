@@ -1,5 +1,5 @@
 # GoogleMapMarkers
-![Markers](Screenshot_20190303-153934.png)
+
 
 the applications helps to load trackers of different places. 
 
@@ -43,7 +43,7 @@ we set the zoom level by adding the following code
 ```
 mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(Hamdi,25));
 ```
-
+![Markers](Screenshot_20190303-153934.png)
 
 ## Adding Googlr Map api
 ```
