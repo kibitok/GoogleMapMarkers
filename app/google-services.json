@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "429461136174",
+    "firebase_url": "https://mapmarkers-22390.firebaseio.com",
+    "project_id": "mapmarkers-22390",
+    "storage_bucket": "mapmarkers-22390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429461136174:android:b9c809e6a4cacebe",
+        "android_client_info": {
+          "package_name": "com.midterm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429461136174-3clmdrb8786avpomqicg2dsh2thmbssf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.midterm",
+            "certificate_hash": "3ff7bbcd5838f2e78a97c3f5ef47fba99e663625"
+          }
+        },
+        {
+          "client_id": "429461136174-od7ba5qhr6gih97bgo7mfpgquc6a848j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy-PCv4ZY7-QWktyiIfTWVyVsuF216_JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429461136174-od7ba5qhr6gih97bgo7mfpgquc6a848j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
